@@ -1,0 +1,30 @@
+Consulta em: 2026-09-07T18:10:10.358933500-03:00[America/Sao_Paulo] - JSON: {
+  "cep": "11783-490",
+  "logradouro": "Rua José Ataulo",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Estância Santa Izabel",
+  "localidade": "Peruíbe",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3537602",
+  "gia": "5241",
+  "ddd": "13",
+  "siafi": "6853"
+}
+Consulta em: 2026-09-07T18:10:41.151773700-03:00[America/Sao_Paulo] - JSON: {
+  "cep": "11735-174",
+  "logradouro": "Avenida Agenor de Campos",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Jussara",
+  "localidade": "Mongaguá",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3531100",
+  "gia": "4595",
+  "ddd": "13",
+  "siafi": "6723"
+}
